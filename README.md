@@ -60,24 +60,23 @@ const Dominio_Frontend = {
 
 ## <img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/05f14d27-ab2f-4530-aea3-47f6eba75047" /> Proyectos Destacados 
 
-
-### 1. Proyect Frontend (Colaborativo - 2025)
+### 1. Proyecto Frontend (Colaborativo - 2025)
 #### Somos Henry
-- Rol: **Frontend Developer**
-- Funciones: Diseño de vistas, planificación de UX, implementación de Login/Register, creación de interfaz dedicada a la interacción de administradores, alumnos, maestros y Teacher Assistants.
-- Tecnologías: Next.js, Tailwind CSS, TypeScript, React, SwalAlert, Lucide, Git, GitHub, Yup, Axios.
+- Rol: Frontend Developer
+- Funciones: Diseñar y maquetar interfaces responsivas centradas en UX, implementar sistemas de autenticación seguros (Login/Registro) y desarrollar dashboards interactivos para la interacción de administradores, alumnos y maestros.
+- Tecnologías: Next.js, React, TypeScript, Tailwind CSS, Axios, Yup, SweetAlert2, Lucide, Git, GitHub.
 
-### 2. Ecommerce Frontend (Personal – 2025)
+###  2. Ecommerce Frontend (Personal – 2025)
 #### Nexo
-- Rol: **Frontend Developer**
-- Funciones: Creación de vistas y funcionalidad completa para un ecommerce de ventas de electrónicos: gestión de carrito, pedidos, filtrado de artículos, e implementación de login y autorización.
-- Tecnologías: Next.js, Tailwind CSS, TypeScript, React, PostgreSQL, SwalAlert, Git, GitHub, Yup.
+- Rol: Frontend Developer
+- Funciones: Construir la arquitectura frontend completa, gestionar la lógica de negocio para carrito de compras y pedidos, optimizar el filtrado dinámico de artículos e integrar seguridad y autorización.
+- Tecnologías: Next.js, React, TypeScript, PostgreSQL, Tailwind CSS, Yup, SweetAlert2, Git, GitHub.
 
-### 3. Proyect Frontend - SPA (Personal – 2025)
+### 3. Proyecto Frontend - SPA (Personal – 2025)
 #### Naturalion Spa
-- Rol: **Fullstack Developer**
-- Funciones: Desarrollo de un website para un SPA, permitiendo a clientes registrados agendar y controlar citas. Creación de la base de datos para alojar la información de cada cliente y sus citas.
-- Tecnologías: React, TypeScript, PostgreSQL, CSS, Boostrap, SwalAlert, Git, GitHub, Yup.
+- Rol: Fullstack Developer
+- Funciones: Arquitecturar una solución web integral (SPA), sistematizar el agendamiento de citas y modelar la base de datos para administrar eficientemente la información de clientes y turnos.
+- Tecnologías: React, TypeScript, PostgreSQL, Bootstrap, CSS, Yup, SweetAlert2, Git, GitHub.
 
 ## 🗣️​ Idiomas 
 ```javascript
