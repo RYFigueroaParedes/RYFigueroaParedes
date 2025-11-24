@@ -16,7 +16,7 @@
 ## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7cef85bf-ef9f-4560-bed9-30376d8e5d1a" /> Presentación:
 
 ```javascript
-const welcome = "Hello word";
+const welcome = "¡Hello word!";
 const name = "Rotceh Yackary Figueroa Paredes";
 const location = "Mérida, Yucatán, México";
 
